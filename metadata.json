@@ -1,0 +1,6 @@
+{
+  "name": "JoyCraft Studio",
+  "description": "Create playful, colorful, and interactive personalized birthday gift websites filled with photos, voice memories, and personal words.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
